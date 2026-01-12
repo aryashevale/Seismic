@@ -14,6 +14,11 @@ Addressing the scarcity of real-world fault data, the system utilizes a **Quantu
 * **3D Holographic Dashboard:** A Unity-based visualization tool that renders sensor data as a color-coded, interactive 3D grid.
 * **Real-World Validation:** Framework designed to integrate with MEMS vibration sensors and drone flight logs (validated on NIT Rourkela campus data).
 
+## 📸 Screenshots
+Here is the 3D Holographic Dashboard visualizing the fault lines (Red) vs safe zones (Green):
+
+![Unity Dashboard View](Screenshot%202026-01-12%20222539.png)
+
 ## 🛠️ Tech Stack
 * **Data Processing & AI:** Python, NumPy, PyTorch (CNN), Scikit-Learn.
 * **Visualization:** Unity Game Engine (2022/6000 LTS), C#, TextMeshPro.
@@ -36,7 +41,4 @@ Navigate to the `Seismic` folder and run the Jupyter Notebook/Script:
 ```bash
 python CNN_Model.py
 
-## 📸 Screenshots
-Here is the 3D Holographic Dashboard visualizing the fault lines (Red) vs safe zones (Green):
 
-![Unity Dashboard View](Screenshot 2026-01-12 222539.png)
