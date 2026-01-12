@@ -32,6 +32,11 @@ Addressing the scarcity of real-world fault data, the system utilizes a **Quantu
 * Unity Hub & Editor (2021.3 or later)
 
 ### Step 1: Generate Data & Run AI
-Navigate to the `CNN_Model` folder and run the Jupyter Notebook/Script:
+Navigate to the `Seismic` folder and run the Jupyter Notebook/Script:
 ```bash
 python CNN_Model.py
+
+## 📸 Screenshots
+Here is the 3D Holographic Dashboard visualizing the fault lines (Red) vs safe zones (Green):
+
+![Unity Dashboard View](dashboard_view.jpg)
