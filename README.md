@@ -39,4 +39,4 @@ python CNN_Model.py
 ## 📸 Screenshots
 Here is the 3D Holographic Dashboard visualizing the fault lines (Red) vs safe zones (Green):
 
-![Unity Dashboard View](dashboard_view.jpg)
+![Unity Dashboard View](Screenshot 2026-01-12 222539.png)
